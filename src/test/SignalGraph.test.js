@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import SignalGraph from '../Components/SignalGraph';
 
-describe('LineGraph page test', () => {
+describe('SignalGraph page test', () => {
 
   let div = null;
   beforeAll(() => {
