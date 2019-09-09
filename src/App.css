@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.series {
+  border: 1px solid gray;
+  border-collapse: collapse;
+  margin: 20px;
+  display: flex;
+  justify-content: space-around;
+  box-shadow: 5px 10px 8px #888888;
+  background-image: linear-gradient( white, #dfeef0);
+}
