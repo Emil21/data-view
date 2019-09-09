@@ -32,7 +32,7 @@ $ npm test
 The applicaiton is developed using create-react-app and then ejected. This web app helps to analyze the data using graphs. As for now, the data is hardcoded in the application. Later we can add a node or any other server to serve the data to front end. Data is hardcoded in the hook, so later an api call can be made from here instead.  
 
 Based on the data the graphs are generated using D3.js. 
-In the line graph, once you hover over the points, it displays the values for easy tracking. Also the points are coloured based on the value. If y value is greater than 10 then its red circle,else if its greater 8 then its yellow and if its lesser than that its white.
+In the line graph, once you hover over the points, it displays the values for easy tracking. Also the points are coloured based on the value. If y value is greater than 10 then it's red circle,else if it's greater than 8 then its yellow and if its lesser than 8 it's white.
 
 Test cases are written at root level. I could write in depth test cases after investing some more time.
 
