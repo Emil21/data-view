@@ -10,7 +10,7 @@ Application to analyse the data and identify their peak point. Line and area gra
 $ npm i 
 ```
 
-```
+
 - Run the web app
 ```
 $ npm start
@@ -19,9 +19,9 @@ $ npm start
 - Run the test cases
 ```
 $ npm test
-```
+```  
 
-## Technology
+## Technology 
 
 - React JS - Frontend
 - Jest - Unit testing
