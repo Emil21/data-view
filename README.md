@@ -34,5 +34,7 @@ The applicaiton is developed using create-react-app and then ejected. This web a
 Based on the data the graphs are generated using D3.js. 
 In the line graph, once you hover over the points, it displays the values for easy tracking. Also the points are coloured based on the value. If y value is greater than 10 then it's red circle,else if it's greater than 8 then its yellow and if its lesser than 8 it's white.
 
+Flexbox is used to make the app responsive.
+
 Test cases are written at root level. I could write in depth test cases after investing some more time.
 
